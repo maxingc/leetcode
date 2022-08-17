@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ae719ad-324f-4fe1-9ecd-8e509882de70" name="Changes" comment="2022.8.15">
-      <change afterPath="$PROJECT_DIR$/array/双指针_滑动窗口/209.长度最小的子数组/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/双指针_滑动窗口/27.移除元素/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/双指针_滑动窗口/904.水果成篮/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/模拟/59.螺旋矩阵二/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listnode/203.移除链表元素/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listnode/707.设计链表/MyLinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listnode/ListNode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashtable/202.快乐数/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashtable/242.有效的字母异位词/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashtable/349.两个数组的交集/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashtable/383.赎金信/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listnode/142.环形链表二/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listnode/206.反转链表/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listnode/24.两两交换链表中的节点/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listnode/面试题02.07.链表相交/Solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/1.两数之和/Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/hashtable/1.两数之和/Solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +44,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\repository\leetcode\hashtable" />
       <recent name="E:\repository\leetcode\array\二分查找" />
       <recent name="E:\repository\leetcode\array\1.两数之和" />
     </key>
@@ -74,6 +78,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
