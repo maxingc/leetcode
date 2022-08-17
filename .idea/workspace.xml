@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ae719ad-324f-4fe1-9ecd-8e509882de70" name="Changes" comment="2022.8.15">
+      <change afterPath="$PROJECT_DIR$/array/双指针_滑动窗口/209.长度最小的子数组/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/双指针_滑动窗口/27.移除元素/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/双指针_滑动窗口/904.水果成篮/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/模拟/59.螺旋矩阵二/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listnode/203.移除链表元素/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listnode/707.设计链表/MyLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listnode/ListNode.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2DOe9cLhusLJGSTaN4sOz7xiOIB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\repository\leetcode\array\二分查找" />
+      <recent name="E:\repository\leetcode\array\1.两数之和" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ae719ad-324f-4fe1-9ecd-8e509882de70" name="Changes" comment="" />
+      <created>1660574409605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660574409605</updated>
+    </task>
+    <task id="LOCAL-00001" summary="2022.8.15">
+      <created>1660612189894</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660612189894</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2022.8.15" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.8.15" />
+  </component>
+</project>
