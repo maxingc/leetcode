@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ae719ad-324f-4fe1-9ecd-8e509882de70" name="Changes" comment="2022.8.15">
-      <change afterPath="$PROJECT_DIR$/hashtable/202.快乐数/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hashtable/242.有效的字母异位词/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hashtable/349.两个数组的交集/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hashtable/383.赎金信/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listnode/142.环形链表二/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listnode/206.反转链表/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listnode/24.两两交换链表中的节点/Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listnode/面试题02.07.链表相交/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/双指针_滑动窗口/#15.三数之和/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashtable/18.四数之和/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack&amp;queue/150. 逆波兰表达式求值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack&amp;queue/225.用队列实现栈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack&amp;queue/232.用栈实现队列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack&amp;queue/239.滑动窗口最大值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/151.翻转字符串里的单词/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/28.实现strStr()/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/344.反转字符串/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/459.重复的子字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/heap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典算法/KMP.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/1.两数之和/Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/hashtable/1.两数之和/Solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +52,34 @@
       <recent name="E:\repository\leetcode\array\二分查找" />
       <recent name="E:\repository\leetcode\array\1.两数之和" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
