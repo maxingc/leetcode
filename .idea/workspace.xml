@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ae719ad-324f-4fe1-9ecd-8e509882de70" name="Changes" comment="2022.8.15">
-      <change afterPath="$PROJECT_DIR$/经典数据结构/tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/101.对称二叉树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/111.二叉树的最小深度.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/226.翻转二叉树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/tree/traversal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/经典数据结构/heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/经典数据结构/heap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/经典数据结构/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/经典数据结构/tree/tree.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +40,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\repository\leetcode\经典数据结构\tree" />
       <recent name="E:\repository\leetcode\hashtable" />
       <recent name="E:\repository\leetcode\array\二分查找" />
       <recent name="E:\repository\leetcode\array\1.两数之和" />
