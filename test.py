@@ -1,5 +1,5 @@
 
 if __name__=="__main__":
-    s='abcdef'
-    print(s[1:-1])
+    s=[1,2]
+    print(s + s)
 

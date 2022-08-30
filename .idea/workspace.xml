@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ae719ad-324f-4fe1-9ecd-8e509882de70" name="Changes" comment="2022.8.15">
-      <change afterPath="$PROJECT_DIR$/tree/101.对称二叉树.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/111.二叉树的最小深度.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/226.翻转二叉树.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/经典数据结构/tree/traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/105.从前序与中序遍历序列构造二叉树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/106.从中序与后序遍历序列构造二叉树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/110. 平衡二叉树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/112. 路径总和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/113. 路径总和2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/513. 找树左下角的值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/654.最大二叉树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典算法/单调栈/654.最大二叉树.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/经典数据结构/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/经典数据结构/tree/tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +28,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="2DOe9cLhusLJGSTaN4sOz7xiOIB" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,9 +48,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/经典算法/单调栈" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\repository\leetcode\经典算法\单调栈" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\repository\leetcode\经典数据结构\tree" />
       <recent name="E:\repository\leetcode\hashtable" />
