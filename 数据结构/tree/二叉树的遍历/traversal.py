@@ -10,6 +10,7 @@ class TreeNode:
 
     #层序遍历
     ##迭代法
+    ####构建队列，遍历队列，将队首节点的左子节点（如果有）和右子节点（如果有）加入队尾，并将队首节点移除队列
     def levelOrder(self, root):
         results = []
         if not root:
@@ -32,6 +33,7 @@ class TreeNode:
         return results
 
     ##递归法
+    ####递归函数包含树深度参数，ans为二维list，深度有新增则ans在0维度新增list，否则在对应深度list中新增节点值
     def levelOrder(self, root):
         res = []
         def helper(root, depth):
@@ -48,8 +50,8 @@ class TreeNode:
         return res
 
     # 深度遍历
-    # 递归遍历
-    ##前序遍历
+    ## 递归遍历
+    ### 前序遍历
     def preorderTraversal(self, root):
         result = []
 

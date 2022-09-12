@@ -12,7 +12,7 @@ class Solution:
             ans.append(-q[0][0])
         return ans
 
-    ##优先队列
+    ##优先队列&堆
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
         q = collections.deque()
         ans = []

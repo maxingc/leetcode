@@ -2,16 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ae719ad-324f-4fe1-9ecd-8e509882de70" name="Changes" comment="2022.8.15">
-      <change afterPath="$PROJECT_DIR$/tree/105.从前序与中序遍历序列构造二叉树.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/106.从中序与后序遍历序列构造二叉树.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/110. 平衡二叉树.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/112. 路径总和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/113. 路径总和2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/513. 找树左下角的值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/654.最大二叉树.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/经典算法/单调栈/654.最大二叉树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/tree/BST二叉搜索树/BST二叉搜索树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/tree/BST二叉搜索树/二叉搜索树属性/538.把二叉搜索树转换为累加树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/tree/BST二叉搜索树/二叉搜索树属性/700.二叉搜索树中的搜索.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/tree/BST二叉搜索树/二叉搜索树属性/98. 验证二叉搜索树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/tree/BST二叉搜索树/二叉搜索树的修改与构造/108.将有序数组转换为二叉搜索树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/tree/BST二叉搜索树/二叉搜索树的修改与构造/450. 删除二叉搜索树中的节点.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/tree/BST二叉搜索树/二叉搜索树的修改与构造/669. 修剪二叉搜索树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/tree/BST二叉搜索树/二叉搜索树的修改与构造/701. 二叉搜索树种的插入操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/tree/公共祖先问题/235. 二叉搜索树的最近公共祖先.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/tree/公共祖先问题/236.二叉树的最近公共祖先.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/优先队列&amp;堆/857.雇佣K名工人的最低成本.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/字符串/回文串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/回溯算法/分割/131.分割回文串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/回溯算法/分割/93.复原IP地址.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/回溯算法/子集/491.递增子序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/回溯算法/子集/78.子集.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/回溯算法/子集/90.子集二.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/回溯算法/排列/332.重新安排行程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/回溯算法/排列/46.全排列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/回溯算法/排列/47.全排列二.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/回溯算法/棋盘问题/37.解数独.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/回溯算法/棋盘问题/51.N皇后.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/回溯算法/组合/17.电话号码的字母组合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/回溯算法/组合/216.组合总和三.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/回溯算法/组合/39.组合总和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/回溯算法/组合/40.组合总和二.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/回溯算法/组合/77.组合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/模拟/667.优美的排列二.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/贪心/857.雇佣K名工人的最低成本.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack&amp;queue/239.滑动窗口最大值.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack&amp;queue/239.滑动窗口最大值.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/101.对称二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/tree/二叉树的属性/101.对称二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/105.从前序与中序遍历序列构造二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/tree/二叉树的修改与构造/105.从前序与中序遍历序列构造二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/106.从中序与后序遍历序列构造二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/tree/二叉树的修改与构造/106.从中序与后序遍历序列构造二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/110. 平衡二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/tree/二叉树的属性/110. 平衡二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/111.二叉树的最小深度.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/tree/二叉树的属性/111.二叉树的最小深度.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/112. 路径总和.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/tree/二叉树的属性/112. 路径总和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/113. 路径总和2.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/tree/二叉树的属性/113. 路径总和2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/222.完全二叉树的节点个数.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/tree/二叉树的属性/222.完全二叉树的节点个数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/226.翻转二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/tree/二叉树的修改与构造/226.翻转二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/513. 找树左下角的值.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/tree/二叉树的属性/513. 找树左下角的值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/654.最大二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/tree/二叉树的修改与构造/654.最大二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/经典数据结构/heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/优先队列&amp;堆/heap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/经典数据结构/tree/traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/tree/二叉树的遍历/traversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/经典数据结构/tree/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/tree/tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/经典算法/KMP.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法/KMP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/经典算法/单调栈/503. 下一个更大元素二.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/单调栈/503. 下一个更大元素二.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/经典算法/单调栈/654.最大二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/单调栈/654.最大二叉树.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +87,107 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/经典算法/单调栈" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/算法/贪心" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\repository\leetcode\算法\贪心" />
+      <recent name="E:\repository\leetcode\经典数据结构\tree\BST二叉搜索树" />
       <recent name="E:\repository\leetcode\经典算法\单调栈" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\repository\leetcode\经典数据结构\tree" />
-      <recent name="E:\repository\leetcode\hashtable" />
-      <recent name="E:\repository\leetcode\array\二分查找" />
-      <recent name="E:\repository\leetcode\array\1.两数之和" />
+      <recent name="E:\repository\leetcode\数据结构\优先队列&amp;堆" />
+      <recent name="E:\repository\leetcode\数据结构" />
+      <recent name="E:\repository\leetcode\算法" />
+      <recent name="E:\repository\leetcode\经典数据结构\tree\BST二叉搜索树\二叉搜索树的修改与构造" />
+      <recent name="E:\repository\leetcode\经典数据结构\tree\公共祖先问题" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="131.分割回文串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法/回溯算法/分割" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/回溯算法/分割/131.分割回文串.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="332.重新安排行程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法/回溯算法/排列" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/回溯算法/排列/332.重新安排行程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="78.子集" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法/回溯算法/子集" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/回溯算法/子集/78.子集.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="93.复原IP地址" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法/回溯算法/分割" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/回溯算法/分割/93.复原IP地址.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,6 +212,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.332.重新安排行程" />
+        <item itemvalue="Python.78.子集" />
+        <item itemvalue="Python.93.复原IP地址" />
+        <item itemvalue="Python.131.分割回文串" />
       </list>
     </recent_temporary>
   </component>
@@ -124,5 +254,16 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2022.8.15" />
     <option name="LAST_COMMIT_MESSAGE" value="2022.8.15" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,3 +1,6 @@
+
+##官方库 heapq https://docs.python.org/3/library/heapq.html
+
 class Heap(object):
     def __init__(self, elist):
         self._elems = list(elist)
